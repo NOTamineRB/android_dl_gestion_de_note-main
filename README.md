@@ -5,14 +5,14 @@ Application Android de gestion de note
 ## 1 On peut sélectionner le module depuis les options du spinner.
 
 
-![Screenshot_11](https://user-images.githubusercontent.com/86019502/147646520-0e2bad8f-dfe4-4fb4-b3ae-211932b2b6f2.png)
-![Screenshot_12](https://user-images.githubusercontent.com/86019502/147646530-0b1de806-6b51-4234-9eed-2d86db1e94ca.png)
+![Capture d’écran 2021-12-29 142141](https://user-images.githubusercontent.com/75049625/147666850-82b66680-024c-4770-9020-c4ed515120ab.png)
+![Capture d’écran 2021-12-29 142158](https://user-images.githubusercontent.com/75049625/147666852-b90a5563-0f93-45ad-a8d5-edda09801540.png)
+
 
 
 ## 2 On saisit la note et on clique sur le bouton Saisir, par conséquent la note sera affiche dans une listView ; Bulletin de notes
 
 
-![Screenshot_8](https://user-images.githubusercontent.com/86019502/147646089-e9908a57-55c0-4713-987e-280d760bfa24.png)
 
 ## 3 On ne peut pas saisir plus d’une seule note par module, sinon on avoir une Toast (alert).
 
