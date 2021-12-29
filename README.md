@@ -12,14 +12,17 @@ Application Android de gestion de note
 
 ## 2 On saisit la note et on clique sur le bouton Saisir, par conséquent la note sera affiche dans une listView ; Bulletin de notes
 
+![Capture d’écran 2021-12-29 142807sssssss](https://user-images.githubusercontent.com/75049625/147667188-42378f91-7e63-4a61-b2a5-a80a7e159e45.png)
 
 
 ## 3 On ne peut pas saisir plus d’une seule note par module, sinon on avoir une Toast (alert).
 
+![Capture d’écran 2021-12-29 142239](https://user-images.githubusercontent.com/75049625/147666979-e223afd3-2714-4e77-ab7e-ba08227e9e6f.png)
 
-![Screenshot_9](https://user-images.githubusercontent.com/86019502/147646172-3d0801da-2e1d-4532-92d8-6c5120c63f6e.png)
 
 ## 4 Une fois on donne une note a tous les modules du spinner, la moyenne sera calculée et affichée comme suite.
 
+![Capture d’écran 2021-12-29 142315](https://user-images.githubusercontent.com/75049625/147666980-d1fc1a2c-1a12-4ee3-adf7-e8fa59dcab40.png)
 
-![Screenshot_10](https://user-images.githubusercontent.com/86019502/147646218-af0d7de4-bf2c-4f52-b015-6c877e5968c5.png)
+
+
